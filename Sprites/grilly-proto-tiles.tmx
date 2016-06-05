@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="orthogonal" width="32" height="64" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="grilly-proto-tiles" tilewidth="32" tileheight="32">
+  <image source="grilly-proto-tiles.png" width="704" height="384"/>
+ </tileset>
+ <layer name="Background" width="32" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt1NdJBUEYxfFZA3iNJZibMGsFZq3ArBWYFbzPZq1AvaYKzFqBWSswawX+VRaGQXRh5OLDefixuzBzPtgPTtwYExcREREREREREREREZFPZShHBSpRhWrUoBZ1f5Dx0916NKARTWhGC1rRhvYI830yOtCJLnSjB73oQz8GIsz3yRjEEIYxglGMYRwTmIww3ydjGjOYxRzmsYBFLGHZOR9DJrI8MmwrWMUaEljHBjaxhW3nfD4KUOiRYdvBLvawjwMc4gjHOInw/30yTnGGc1zgEle4xg1uI8z/LcPembu/O2QjB494wjNykYc3586UI8y4x4OT8YJXZ2fu/kxgTBGPYqTynoZ0lPBdiozg+53bPjICpARfGT59+N+FfWp3bjLnh31qd24y54d9anfuO7EaMVA=
+  </data>
+ </layer>
+ <layer name="Decorations" width="32" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt1Mc1RVEYhuE7EVoQi5A7kKlApgKZCmQqkKlApgKZCsQWxIFnYuheg3Mm/O9az2ivf32znclEURRFURRFURRFURRFURRFURT9ryqopIpqaqilLstNEcUJbNfTQCNNNNNCK220J7CRrQ466aKbHnrpo5+BlPcHGWKYEUYZY5wJJlPen2KaGWaZY54FFllKeX+ZFVZZY50NNtliO+X9HXbZY58DDjnimJOU908545wLLrnimhtuE9gooPCHtzvueeCRJ57JIz/H7W8ro/yHtxdeeeOdDz4poTTH7XdJ/UXR3+wLfR0wkQ==
+  </data>
+ </layer>
+ <layer name="Platforms" width="32" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt0rsNgDAMRdEsRGAIYAhgBz77F7wmXQDjJi7uka5QpIAVhZQAAAAAAAAAAAAQVaey6tXQYP6uDnWqq8F8xMb/GU+5j9oz/1y/7Xu67+mj0bDH0uycX2txvLMZ5nu+W1qd578B61QgCg==
+  </data>
+ </layer>
+ <layer name="Player" width="32" height="64">
+  <data encoding="base64" compression="zlib">
+   eJztzkERAAAIA6C1sH9TU+x8CAlIAAAAAAAAAGiY6wCvLFgQABg=
+  </data>
+ </layer>
+</map>
